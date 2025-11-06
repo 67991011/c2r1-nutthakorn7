@@ -1,6 +1,3 @@
-### HELLO MY NAME IS TINNAPAT PATTARAPIMONPONG 
-### COMPUTER ENGINEERING C2R1 👓👓👓
-### MY HOBBIES ARE PLAYING BADMINTON AND WATCH F1🏎️🏎️🏎️
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
